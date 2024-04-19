@@ -1,3 +1,4 @@
-template-file-path: deploy-2.yaml
-parameters: {}
-tags: {}
+Resources:
+    SNS2:
+        Type: AWS::SNS::Topic
+        Properties: {}
