@@ -1,4 +1,4 @@
 Resources:
-    SNS3:
+    SNS4:
         Type: AWS::SNS::Topic
         Properties: {}
