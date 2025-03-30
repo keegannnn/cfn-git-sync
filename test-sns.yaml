@@ -1,4 +1,5 @@
 Resources:
     SNS:
         Type: AWS::SNS::Topic
-        Properties: {}
+        Properties:
+            TopicName: "my-sns-topic-1"
